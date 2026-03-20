@@ -1,5 +1,8 @@
 # Passive Acoustic Data Acquisition using National Instruments CRio chassis
 
+Code migrated from [SourceForge](https://sourceforge.net/p/plabuoy/svn-code/HEAD/tree/) and Java plugin rebuilt to work with most recent PAMGuard (2.02.19) in March 2026. 
+Tested on a [CRio 9063](https://www.ni.com/en-gb/shop/model/crio-9063.html) with a [9222 plugin](https://www.ni.com/en-gb/shop/model/ni-9222.html).
+
 This is code for data acquisition from a National Instruments CRio chassis as described
 in our paper 
 
